@@ -5,7 +5,7 @@ let steak = document.querySelector(".steak");
 let burger = document.querySelector(".burger");
 let tacos = document.querySelector(".tacos");
 const japanAnswer = document.querySelector(".japan-answer")
-
+let test = 'test'
 let breakfast = ""
 let dinner = ""
 
